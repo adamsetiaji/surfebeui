@@ -1,0 +1,17 @@
+src/
+├── components/
+│   ├── ui/
+│   │   ├── button.jsx [DONE]
+│   │   ├── dropdown-menu.jsx [DONE]
+│   │   ├── card.jsx [DONE]
+│   │   └── input.jsx [DONE]
+│   ├── layout/
+│   │   ├── sidebar.jsx [DONE]
+│   │   ├── header.jsx [DONE]
+│   │   └── layout.jsx [DONE]
+│   └── dashboard/
+│       ├── stats-card.jsx [DONE]
+│       └── users-table.jsx [BELUM]
+├── lib/
+│   └── utils.js [DONE]
+└── App.jsx [DONE]
